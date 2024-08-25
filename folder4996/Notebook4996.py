@@ -1,5 +1,6 @@
 # Databricks notebook source
 a = 'hello akshay'
+b = 'max'
 print(a)
 
 # COMMAND ----------
